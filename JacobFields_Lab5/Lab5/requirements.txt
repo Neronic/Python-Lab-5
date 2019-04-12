@@ -1,0 +1,4 @@
+bottle==0.12.16
+pip==10.0.1
+pymongo==3.7.2
+setuptools==39.0.1
